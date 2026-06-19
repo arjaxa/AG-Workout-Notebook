@@ -9,13 +9,13 @@ personal AI-powered workout planner that learns your training style and generate
 
 | Feature | Description |
 |---------|-------------|
-| **📅 Weekly Planner** | Choose 3, 4, or 5 training days per week – each day is a separate tab. |
-| **✍️ Hand‑write Mode** | Build your own workout notebooks with dynamic rows (add/delete exercises). |
-| **🤖 AI Auto‑Generate** | Let the AI create a full week of workouts based on your saved training history. |
-| **🔄 Smart Regenerate** | Regenerate any single exercise (even inside a superset) – the model learns from your preferences. |
-| **📊 Superset & Tri‑set Support** | Add up to 3 exercises per row, each with independent reps but shared sets. |
-| **🔒 Password‑Protected Saving** | Only the owner can add new data – visitors can explore without corrupting the model. |
-| **⚡ Real‑Time Learning** | The more you save, the smarter the AI becomes – it learns the exercise sequences, rep ranges, and set volumes. |
+| ** Weekly Planner** | Choose 3, 4, or 5 training days per week – each day is a separate tab. |
+| ** Hand‑write Mode** | Build your own workout notebooks with dynamic rows (add/delete exercises). |
+| ** AI Auto‑Generate** | Let the AI create a full week of workouts based on your saved training history. |
+| ** Smart Regenerate** | Regenerate any single exercise (even inside a superset) – the model learns from your preferences. |
+| ** Superset & Tri‑set Support** | Add up to 3 exercises per row, each with independent reps but shared sets. |
+| ** Password‑Protected Saving** | Only the owner can add new data – visitors can explore without corrupting the model. |
+| ** Real‑Time Learning** | The more you save, the smarter the AI becomes – it learns the exercise sequences, rep ranges, and set volumes. |
 
 ---
 
