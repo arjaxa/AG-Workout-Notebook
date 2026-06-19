@@ -36,32 +36,30 @@ After saving just a few weeks, the AI starts generating plans that feel like *yo
 ### Dashboard & Weekly Selection
 *Choose your training frequency and dive into the planner.*
 
-![Weekly Selection]<img width="1826" height="780" alt="Screenshot 2026-06-19 110131" src="https://github.com/user-attachments/assets/35c5cf33-275f-4d01-945c-b6dd44dd4b0c" />
+<img width="1826" height="780" alt="Screenshot 2026-06-19 110131" src="https://github.com/user-attachments/assets/35c5cf33-275f-4d01-945c-b6dd44dd4b0c" />
 
 
 ### Hand‑write Mode
 *Build your own notebook – add rows, create supersets, and adjust reps/sets per exercise.*
-
-![Hand‑write Mode]<img width="1837" height="833" alt="Screenshot 2026-06-19 111306" src="https://github.com/user-attachments/assets/fa4e9ba1-7295-44a4-934b-a29b35406de0" />
+<img width="1837" height="833" alt="Screenshot 2026-06-19 111306" src="https://github.com/user-attachments/assets/fa4e9ba1-7295-44a4-934b-a29b35406de0" />
 
 
 
 ### AI Auto‑Generate
 *Let the AI generate a complete week based on your saved history.*
 
-![Auto‑generate]...
+...
 
 ### Superset & Regenerate
 *Add up to 3 exercises per row and regenerate individual moves.*
-
-![Superset]<img width="1836" height="837" alt="Screenshot 2026-06-19 111357" src="https://github.com/user-attachments/assets/3359b1f9-2d86-4fa0-8d4a-96d51a2b1c70" />
+<img width="1836" height="837" alt="Screenshot 2026-06-19 111357" src="https://github.com/user-attachments/assets/3359b1f9-2d86-4fa0-8d4a-96d51a2b1c70" />
 
 
 
 ### Admin Panel
 *Add custom exercises with new muscle groups via the sidebar.*
 
-![Admin Panel]<img width="363" height="782" alt="Screenshot 2026-06-19 111500" src="https://github.com/user-attachments/assets/8ea0af27-7e44-49cb-9bc4-4fa322e421be" />
+<img width="363" height="782" alt="Screenshot 2026-06-19 111500" src="https://github.com/user-attachments/assets/8ea0af27-7e44-49cb-9bc4-4fa322e421be" />
 
 
 ---
